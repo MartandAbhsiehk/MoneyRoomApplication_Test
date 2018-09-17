@@ -1,0 +1,17 @@
+com\monetroom\utils\MainMenuButton.class
+com\monetroom\utils\PrintButton.class
+com\monetroom\utils\TakeScreenshot.class
+com\monetroom\utils\ReturnCollectorTourFund.class
+com\moneyroom\object\ui\IssueCollectorTourFund.class
+com\monetroom\utils\PrintReceiptButton.class
+com\moneyroom\object\ui\TourOfDutySystemDeposits.class
+com\moneyroom\test\smoke\DemoScreenshot.class
+com\moneyroom\test\regression\IssueManagerSupervisorFundVerification.class
+com\monetroom\utils\DataHandlers.class
+com\moneyroom\object\ui\IssueManagerSupervisorFund.class
+com\moneyroom\test\regression\ReturnCollectorTourFundVerification.class
+com\monetroom\utils\CreateDriver.class
+com\moneyroom\test\smoke\SimpleUnitTest.class
+com\moneyroom\test\regression\LoginVerification.class
+com\moneyroom\object\ui\LoginPage.class
+com\moneyroom\test\regression\IssueCollectorTourFundVerification.class

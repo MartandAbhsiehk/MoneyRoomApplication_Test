@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="250545" started-at="2018-09-17T09:08:11Z" finished-at="2018-09-17T09:12:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="250545" started-at="2018-09-17T09:08:11Z" finished-at="2018-09-17T09:12:21Z">
+      <class name="com.moneyroom.test.regression.ReturnCollectorTourFundVerification">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.moneyroom.test.regression.ReturnCollectorTourFundVerification@30c7da1e]" name="preCondition" is-config="true" duration-ms="55763" started-at="2018-09-17T14:40:47Z" finished-at="2018-09-17T14:41:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="ReturnCollectorTourFundTest()[pri:6, instance:com.moneyroom.test.regression.ReturnCollectorTourFundVerification@30c7da1e]" name="ReturnCollectorTourFundTest" duration-ms="38652" started-at="2018-09-17T14:41:43Z" finished-at="2018-09-17T14:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReturnCollectorTourFundTest -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.moneyroom.test.regression.ReturnCollectorTourFundVerification@30c7da1e]" name="postCondition" is-config="true" duration-ms="11" started-at="2018-09-17T14:42:21Z" finished-at="2018-09-17T14:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.moneyroom.test.regression.ReturnCollectorTourFundVerification -->
+      <class name="com.moneyroom.test.regression.IssueManagerSupervisorFundVerification">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.moneyroom.test.regression.IssueManagerSupervisorFundVerification@340f438e]" name="preCondition" is-config="true" duration-ms="3934" started-at="2018-09-17T14:39:21Z" finished-at="2018-09-17T14:39:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="IssueManagerSupervisorFundTest()[pri:4, instance:com.moneyroom.test.regression.IssueManagerSupervisorFundVerification@340f438e]" name="IssueManagerSupervisorFundTest" duration-ms="82372" started-at="2018-09-17T14:39:25Z" finished-at="2018-09-17T14:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IssueManagerSupervisorFundTest -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.moneyroom.test.regression.IssueManagerSupervisorFundVerification@340f438e]" name="postCondition" is-config="true" duration-ms="12" started-at="2018-09-17T14:40:47Z" finished-at="2018-09-17T14:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.moneyroom.test.regression.IssueManagerSupervisorFundVerification -->
+      <class name="com.moneyroom.test.regression.IssueCollectorTourFundVerification">
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.moneyroom.test.regression.IssueCollectorTourFundVerification@511baa65]" name="preConditions" is-config="true" duration-ms="3860" started-at="2018-09-17T14:38:46Z" finished-at="2018-09-17T14:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="IssueCollectorTourFundTest()[pri:5, instance:com.moneyroom.test.regression.IssueCollectorTourFundVerification@511baa65]" name="IssueCollectorTourFundTest" duration-ms="30375" started-at="2018-09-17T14:38:50Z" finished-at="2018-09-17T14:39:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IssueCollectorTourFundTest -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.moneyroom.test.regression.IssueCollectorTourFundVerification@511baa65]" name="postCondition" is-config="true" duration-ms="11" started-at="2018-09-17T14:39:21Z" finished-at="2018-09-17T14:39:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.moneyroom.test.regression.IssueCollectorTourFundVerification -->
+      <class name="com.moneyroom.test.regression.LoginVerification">
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="preConditions" is-config="true" duration-ms="6047" started-at="2018-09-17T14:38:11Z" finished-at="2018-09-17T14:38:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="InvalidLoginTest()[pri:0, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="InvalidLoginTest" duration-ms="5145" started-at="2018-09-17T14:38:17Z" finished-at="2018-09-17T14:38:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginTest -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="postConditions" is-config="true" duration-ms="21" started-at="2018-09-17T14:38:22Z" finished-at="2018-09-17T14:38:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="preConditions" is-config="true" duration-ms="4716" started-at="2018-09-17T14:38:22Z" finished-at="2018-09-17T14:38:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="InvalidUsernamePasswordLogin()[pri:1, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="InvalidUsernamePasswordLogin" duration-ms="7606" started-at="2018-09-17T14:38:27Z" finished-at="2018-09-17T14:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUsernamePasswordLogin -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="postConditions" is-config="true" duration-ms="15" started-at="2018-09-17T14:38:34Z" finished-at="2018-09-17T14:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="preConditions" is-config="true" duration-ms="3937" started-at="2018-09-17T14:38:34Z" finished-at="2018-09-17T14:38:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="Login_Logout_Verification()[pri:2, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="Login_Logout_Verification" duration-ms="8036" started-at="2018-09-17T14:38:38Z" finished-at="2018-09-17T14:38:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Logout_Verification -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:com.moneyroom.test.regression.LoginVerification@39ba5a14]" name="postConditions" is-config="true" duration-ms="13" started-at="2018-09-17T14:38:46Z" finished-at="2018-09-17T14:38:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+      </class> <!-- com.moneyroom.test.regression.LoginVerification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
